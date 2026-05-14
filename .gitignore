@@ -1,6 +1,12 @@
 # Ignore everything
 *
 
-# But track CLAUDE.md
+# But track these
 !CLAUDE.md
 !.gitignore
+!my-first-claude-project/
+my-first-claude-project/*
+!my-first-claude-project/json_to_csv.py
+!my-first-claude-project/test_json_to_csv.py
+!my-first-claude-project/sample.json
+!my-first-claude-project/broken.json
